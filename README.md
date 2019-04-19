@@ -1,3 +1,7 @@
+# Microsoft Learn: Create custom controls in Xamarin.Forms with renderers
+
+[//]: # (TODO: Link back to Microsoft Learn module.)
+This project contains the source code for the **Create custom controls in Xamarin.Forms with renderers** Microsoft Learn module.
 
 # Contributing
 
